@@ -1,0 +1,11 @@
+com/ge/predix/solsvc/workshop/adapter/RaspberryPISubscriptionAdapter.class
+com/ge/predix/solsvc/workshop/adapter/SampleMachineAdapterConfigImpl$Config.class
+com/ge/predix/solsvc/workshop/adapter/RaspberryPISubscriptionAdapter$1.class
+com/ge/predix/solsvc/workshop/types/WorkshopSubscriptionListener.class
+com/ge/predix/solsvc/workshop/config/JsonDataNode.class
+com/ge/predix/solsvc/workshop/config/TriggerNode.class
+com/ge/predix/solsvc/workshop/config/StringToShortSerializer.class
+com/ge/predix/solsvc/workshop/adapter/SampleMachineAdapterConfigImpl.class
+com/ge/predix/solsvc/workshop/types/WorkshopDataSubscription.class
+com/ge/predix/solsvc/workshop/api/ISampleAdapterConfig.class
+com/ge/predix/solsvc/workshop/types/WorkshopDataNodePI.class

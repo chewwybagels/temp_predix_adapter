@@ -1,0 +1,9 @@
+/predix/predix-machine-template-adapter-pi/src/main/java/com/ge/predix/solsvc/workshop/types/WorkshopDataSubscription.java
+/predix/predix-machine-template-adapter-pi/src/main/java/com/ge/predix/solsvc/workshop/adapter/SampleMachineAdapterConfigImpl.java
+/predix/predix-machine-template-adapter-pi/src/main/java/com/ge/predix/solsvc/workshop/config/TriggerNode.java
+/predix/predix-machine-template-adapter-pi/src/main/java/com/ge/predix/solsvc/workshop/types/WorkshopDataNodePI.java
+/predix/predix-machine-template-adapter-pi/src/main/java/com/ge/predix/solsvc/workshop/config/JsonDataNode.java
+/predix/predix-machine-template-adapter-pi/src/main/java/com/ge/predix/solsvc/workshop/types/WorkshopSubscriptionListener.java
+/predix/predix-machine-template-adapter-pi/src/main/java/com/ge/predix/solsvc/workshop/adapter/RaspberryPISubscriptionAdapter.java
+/predix/predix-machine-template-adapter-pi/src/main/java/com/ge/predix/solsvc/workshop/config/StringToShortSerializer.java
+/predix/predix-machine-template-adapter-pi/src/main/java/com/ge/predix/solsvc/workshop/api/ISampleAdapterConfig.java
